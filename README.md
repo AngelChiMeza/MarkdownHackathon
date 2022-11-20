@@ -10,5 +10,9 @@ Los gatos son Titulos entre mas gatos mas pequeños.
       * opcion2a
       * opcion2b
 
+👓 
+
+windows=. aparece ventana emergente para seleccionar los emoji
+
 [Wikipedia](https://es.wikipedia.org/wiki/Wikipedia:Portada)
    
