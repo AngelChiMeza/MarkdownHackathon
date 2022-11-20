@@ -15,4 +15,5 @@ Los gatos son Titulos entre mas gatos mas pequeños.
 windows=. aparece ventana emergente para seleccionar los emoji
 
 [Wikipedia](https://es.wikipedia.org/wiki/Wikipedia:Portada)
-   
+
+![Imagen1](fig/imagen1.jpeg)
