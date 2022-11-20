@@ -1,3 +1,3 @@
 # MarkdownHackathon. 
-Los gatos son Titulos entre mas gatos mas pequeños
+Los gatos son Titulos entre mas gatos mas pequeños. 
 ##Taller de Morelia
